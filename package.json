@@ -13,6 +13,12 @@
     "@types/node": "^18.0.6",
     "cheerio": "^1.0.0-rc.12",
     "node-fetch": "^3.2.6",
+    "puppeteer": "^18.0.5",
     "request-promise": "^4.2.6"
+  },
+  "devDependencies": {
+    "eslint": "^8.23.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
   }
 }
